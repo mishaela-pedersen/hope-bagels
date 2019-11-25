@@ -1,2 +1,2 @@
 # hope-bagels
-#Just a bunch of hopeful bagels.
+# Just a bunch of hopeful bagels.
